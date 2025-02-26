@@ -3,12 +3,13 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
-Building AI course project
+# Eva (Employee Virtual Assistant)
+
+Eva can revolutionize HR departments by automating repetitive tasks, enhancing employee engagement, boosting productivity and Employees could get quick answers to HR-related queries.
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+The AI-Powered HR Assistant Eva is an innovative virtual assistant designed to automate, optimize, and enhance HR processes, helping HR teams focus on strategic tasks while improving employee satisfaction. This intelligent tool leverages AI, machine learning, and natural language processing (NLP) to streamline recruitment, onboarding, employee engagement, payroll management, performance evaluation, leave policies and benefits etc.
 
 
 ## Background
