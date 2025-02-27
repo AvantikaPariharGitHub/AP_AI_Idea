@@ -14,12 +14,25 @@ The AI-Powered HR Assistant Eva is an innovative virtual assistant designed to a
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+There are many factors which can be solved with Eva:
 
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+* Employees struggle to get quick responses to HR-related questions (leave policies, payroll issues, benefits, etc.).
+* Employees struggle to find relevant training or career growth opportunities.
+* Employees face salary miscalculations, delayed payments, and timesheet tracking issues.
+* Employees often feel underappreciated and get infrequent performance reviews.
+* Employees experience overwork, high stress, and burnout due to inefficient workload management.
+* Employees find it difficult to track leave balances, request time off, or understand benefits.
+* Employee don't get Emails regarding Birthday, Work Anniversary which gives happiness and help to growth. 
+
+How Eva can solve the problems with AI Driven Solutions:
+
+* HR chatbots provide instant answers and automate requests like leave approvals and document submissions.
+* AI recommends personalized career paths, suggests learning courses, and helps employees upskill efficiently.
+* AI automates payroll processing, ensures accurate salary calculations, and detects fraudulent activities.
+* AI tracks real-time performance, provides continuous feedback, and suggests reward/recognition programs.
+* AI monitors work hours, suggests breaks, and alerts managers about workload imbalances.
+* AI automates leave tracking, recommends best benefits plans, and provides a self-service portal.
+* Eva can send automatic emails based on employee data and give them vouchers based on number of years employee worked in the company.
 
 
 ## How is it used?
