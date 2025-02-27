@@ -9,7 +9,7 @@ Eva can revolutionize HR departments by automating repetitive tasks, enhancing e
 
 ## Summary
 
-The AI-Powered HR Assistant Eva is an innovative virtual assistant designed to automate, optimize, and enhance HR processes, helping HR teams focus on strategic tasks while improving employee satisfaction. This intelligent tool leverages AI, machine learning, and natural language processing (NLP) to streamline recruitment, onboarding, employee engagement, payroll management, performance evaluation, leave policies and benefits etc.
+The AI-Powered HR Assistant Eva is an innovative virtual assistant designed to automate, optimize, and enhance HR processes, helping HR teams focus on strategic tasks while improving employee satisfaction. This intelligent tool leverages AI, machine learning, and natural language processing (NLP) to onboarding, employee engagement, payroll management, performance evaluation, leave policies and benefits etc.
 
 
 ## Background
